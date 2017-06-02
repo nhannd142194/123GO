@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">123GO</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="hint_name">Họ tên</string>
+    <string name="btn_login">ĐĂNG NHẬP</string>
+    <string name="btn_register">ĐĂNG KÝ</string>
+    <string name="btn_link_to_register">Không phải là thành viên? Đăng ký ngay.</string>
+    <string name="btn_link_to_login">Đã có tài khoản! Đăng nhập ngay.</string>
+    <string name="welcome">Xin chào</string>
+    <string name="btn_logout">ĐĂNG XUẤT</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_rating">Đánh giá</string>
+    <string name="btn_comment">Bình luận</string>
+    <string name="btn_submit_rating">Gửi đánh giá</string>
+    <string name="btn_submit_comment">Gửi bình luận</string>
+    <string name="name">Tên</string>
+    <string name="title_activity_home">Trang chủ</string>
+    <string name="comment_title">Bình luận</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_search">Tìm kiếm</string>
+    <string name="action_add_item">Thêm món ăn</string>
+    <string name="action_refresh">Cập nhật</string>
+    <string name="action_manage_menu">Quản lý menu</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_manage_menu">Quản lý menu</string>
+    <string name="title_activity_add_food">Thêm món ăn</string>
+    <string name="title_activity_manage_counter">Thông tin quán ăn</string>
+    <string name="title_activity_search_food">Tìm kiếm món ăn</string>
+
+    <string name="hint_food_name">Tên món ăn</string>
+    <string name="hint_food_price">Giá</string>
+    <string name="hint_food_discount">Khuyến mãi(%)</string>
+    <string name="hint_food_description">Mô tả món ăn</string>
+    <string name="btn_add">Thêm mới</string>
+    <string name="btn_choose_image">Chọn ảnh</string>
+
+    <string name="hint_counter_name">Tên quán ăn</string>
+    <string name="hint_counter_address">Địa chỉ</string>
+    <string name="hint_counter_phone">Số điện thoại</string>
+    <string name="hint_counter_description">Mô tả quán ăn</string>
+    <string name="btn_submit">Hoàn tất</string>
+
+    <string name="tab_title_1">TIN TỨC</string>
+    <string name="tab_title_2">THỨC ĂN</string>
+    <string name="tab_title_3">TÀI KHOẢN</string>
+
+    <string name="loading">Đang tải…</string>
+    <string name="searching">Đang tìm…</string>
+    <string name="uploading">Đang tải lên…</string>
+    <string name="no_more_item">-------------------</string>
+    <string name="no_item_found">Không tìm thấy món ăn</string>
+
+    <string name="latest_food">Món ăn mới nhất</string>
+    <string name="latest_counter">Quán ăn mới nhất</string>
+    <string name="title_activity_food_detail">Thông tin món ăn</string>
+    <string name="title_activity_news_detail">Tin tức</string>
+    <string name="title_activity_counter_detail">Quán ăn</string>
+</resources>

@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.thien.a123go.activity.HomeActivity">
+    <item
+        android:id="@+id/action_manage_counter"
+        android:icon="@drawable/ic_counter"
+        android:title="Quản lý cửa hàng"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_manage_menu"
+        android:icon="@drawable/ic_list"
+        android:title="@string/action_manage_menu"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_search_food"
+        android:icon="@drawable/ic_seach"
+        android:title="@string/action_search"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+</menu>
